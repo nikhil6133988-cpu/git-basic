@@ -22,3 +22,9 @@ git config --global use.email "nikhil6133988@gmail.com"
 3. git commit -m "message" -commit changes
 4. git push -send changed to remote (Github)
  
+ ### 4. Git command 
+ 1. intiallizing (git init)
+ 2. track  (git status)
+ 3. undo changes (git checkout __filename)
+ 4. git reset (file name)
+ 
